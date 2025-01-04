@@ -1,12 +1,5 @@
 Simple Movie App
 
-ScreenShots: 
+Movie APP:
 
-
-
-
-
-
-
-https://github.com/user-attachments/assets/255bdd57-9d05-497c-8b10-d79204e1d65c
-
+![Screen Recording 2025-01-04 121411](https://github.com/user-attachments/assets/28143569-8be2-4b38-942d-40bfd2ccc1ce)
